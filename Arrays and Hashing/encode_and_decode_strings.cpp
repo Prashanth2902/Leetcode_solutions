@@ -4,6 +4,7 @@ using namespace std;
 /**
  * Leetcode Medium
  * Problem Name = 271. Encode and Decode strings.
+ * Link -> https://neetcode.io/problems/string-encode-and-decode/question
  * 
  * Logic :-
  * For the encode function, we just create an empty string and append the length of the word,

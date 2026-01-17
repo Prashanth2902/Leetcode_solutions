@@ -4,6 +4,7 @@ using namespace std;
 /** 
  * Leetcode Medium
  * Problem Name = 128. Longest Consecutive Sequence
+ * Link -> https://leetcode.com/problems/longest-consecutive-sequence/description/
  * 
  * Logic:-
  * The problem asks us to find the longest consecutive sequence of an array. 

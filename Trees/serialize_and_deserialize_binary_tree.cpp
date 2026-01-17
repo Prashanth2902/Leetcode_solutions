@@ -4,6 +4,7 @@ using namespace std;
 /**
  * Leetcode Hard
  * Problem name - 297. Serialize and Deserialize Binary Tree.
+ * Link -> https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
  * 
  * Logic:-
  * For the serialize function, we are given a tree and convert it to a string.
@@ -73,7 +74,3 @@ public:
         return root;
     }
 };
-
-// Your Codec object will be instantiated and called as such:
-// Codec ser, deser;
-// TreeNode* ans = deser.deserialize(ser.serialize(root));
