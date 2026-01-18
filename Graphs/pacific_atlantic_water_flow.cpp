@@ -11,13 +11,15 @@ using namespace std;
  * We need to find the piece of land.
  * the piece of land has its index value greater than both values in pacific and atlantic ocean.
  * 
- * We create two 2D sets initialized to false that check if the condition is valid. One for pacific and one for atlantic.
+ * We create two 2D sets initialized to false that check if the condition is valid. 
+ * One for pacific and one for atlantic.
  * We then call the dfs function from the top and the left for pacific and then bottom and right for atlantic.
  * If the resultant 2D sets have true in both the index, then that index is a piece of land. 
  * The r and c will be pushed into the result array.
  * 
  * The logic of the dfs is simple. For a given r and c, we mark it as true in the hashset.
- * When we are traversing in the 4 directions, we need to make sure if the next index value is higher than the current index.
+ * When we are traversing in the 4 directions, we need to make sure if the 
+ * next index value is higher than the current index.
  * If it is higher and has not been visited then traverse to the next index.
  */
 
