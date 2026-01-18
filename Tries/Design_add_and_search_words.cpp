@@ -7,7 +7,8 @@ using namespace std;
  * Link -> https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
  * 
  * Logic :-
- * The Node data structure is a Trie (Prefix Tree). This is the requirement for this problem. It is the standard implementation.
+ * The Node data structure is a Trie (Prefix Tree). This is the requirement for this problem. 
+ * It is the standard implementation.
  * 
  * When the WordDictionary Object is created, we need to initialize the root object to a new Node().
  * 
@@ -17,8 +18,10 @@ using namespace std;
  * We need to treat the dot as any character.
  * This follows the standard dfs where we the Node position in the tree and the idx of the word changes.
  * The logic handling changes based on the character.
- * 1) If the character is not '.', then we go to the next iteration of the dfs (incrementing idx and going to next node)
- * 2) If the character is '.', then we find at least one instance where the next node is present (iterating across all characters)
+ * 1) If the character is not '.', then we go to the next iteration of the dfs 
+ * (incrementing idx and going to next node)
+ * 2) If the character is '.', then we find at least one instance where the next node is present 
+ * (iterating across all characters)
  * 
  */
 
