@@ -69,6 +69,7 @@ CATEGORIES = [
     "Intervals",
     "Math and Geometry",
     "Bit Manipulation",
+    "Design",
 ]
 
 # C++ keywords for syntax highlighting

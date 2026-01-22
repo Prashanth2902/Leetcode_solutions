@@ -24,6 +24,7 @@ Solutions are organized by topic/pattern:
 - Intervals
 - Math and Geometry
 - Bit Manipulation
+- Design
 
 ## PDF Generator
 
