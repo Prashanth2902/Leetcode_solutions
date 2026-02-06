@@ -18,8 +18,7 @@ Solutions are organized by topic/pattern:
 - Backtracking
 - Graphs
 - Advanced Graphs
-- 1-D DP
-- 2-D DP
+- Dynamic Programming
 - Greedy
 - Intervals
 - Math and Geometry
