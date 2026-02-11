@@ -26,6 +26,8 @@ Solutions are organized by topic/pattern:
 - Math and Geometry
 - Bit Manipulation
 - Design
+- Core Skills
+- Brute Force
 
 ## PDF Generator
 

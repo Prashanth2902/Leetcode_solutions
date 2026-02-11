@@ -70,6 +70,8 @@ CATEGORIES = [
     "Math and Geometry",
     "Bit Manipulation",
     "Design",
+    "Core Skills",
+    "Brute Force"
 ]
 
 # C++ keywords for syntax highlighting
