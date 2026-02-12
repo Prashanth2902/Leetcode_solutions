@@ -19,7 +19,6 @@ Solutions are organized by topic/pattern:
 - Priority Queue
 - Backtracking
 - Graphs
-- Advanced Graphs
 - Dynamic Programming
 - Greedy
 - Intervals

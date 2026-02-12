@@ -62,7 +62,6 @@ CATEGORIES = [
     "Priority Queue",
     "Backtracking",
     "Graphs",
-    "Advanced Graphs",
     "1-D DP",
     "2-D DP",
     "Greedy",
