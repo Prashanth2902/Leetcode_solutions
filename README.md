@@ -12,6 +12,7 @@ Solutions are organized by topic/pattern:
 - Two Pointers
 - Sliding Window
 - Stack
+- Queue
 - Binary Search
 - Linked List
 - Trees
