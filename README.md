@@ -1,6 +1,6 @@
-# Leetcode_solutions
+# Competitive Programming Solns
 
-This repository is a compilation of all the LeetCode problems I have solved. It serves as a personal archive to track my progress, document my implementations in C++, and refine my understanding of various data structures and algorithms.
+This repository is a compilation of all the CP problems I have solved. It serves as a personal archive to track my progress, document my implementations in C++, and refine my understanding of various data structures and algorithms.
 
 My Leetcode Profile -> https://leetcode.com/u/0112358CSGO/
 
